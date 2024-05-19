@@ -62,8 +62,7 @@ This project aims to develop a comprehensive application that facilitates docume
 - **Backend:** FastAPI serves as the backend framework, handling PDF upload, question answering, and database interactions.
 - **NLP Processing:** Utilizes LangChain/LLamaIndex for natural language processing tasks.
 - **Frontend:** React.js powers the frontend, providing a dynamic user interface for document upload, question submission, and answer display.
-- **Database:** Utilizes SQLite or PostgreSQL for storing document metadata.
-- **File Storage:** Supports local filesystem or cloud storage (e.g., AWS S3) for storing uploaded PDFs.
+
 
 ## Usage
 - **Upload PDF:** Navigate to the upload page, select a PDF document, and wait for the upload to complete.
